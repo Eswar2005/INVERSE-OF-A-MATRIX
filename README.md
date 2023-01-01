@@ -16,7 +16,7 @@ Print the program
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: Thirukaalathessvarar S
+#D'INVERSE-OF-A-MATRIX'.eveloped by: Thirukaalathessvarar S
 #RegisterNumber: 22004529
 
 import numpy as np
